@@ -13,6 +13,10 @@ This Digital Thermostat project uses an Arduino and DHT22 sensor. Two buttons al
     1X Bread Board
     Jumper Wires as required
     
+# How to use the Simulation:
+1. Click on the link
+2. ![image](https://github.com/yugansh29/DigitalThermostat-Arduino/assets/123052599/769b2eeb-eceb-4f34-84c0-6ce01445b200)
+
 
 # To use the Simulation please go to this link 
 
