@@ -39,11 +39,12 @@ When the User-set Temp is equal to the Room temp the system is indicated by a Gr
 2. You'll be directed to this page and you will need to press  the run button
    ![image](https://github.com/yugansh29/DigitalThermostat-Arduino/assets/123052599/0d934bae-d932-42d4-a2a9-ccb25593b2a8)
 3. After Running the Room Temperature fetched from the DHT22 sensor followed by the User Set Temp (which is 25 C by default)displayed on the OLED Display:
+
    ![image](https://github.com/yugansh29/DigitalThermostat-Arduino/assets/123052599/cf576ce4-e77e-4306-8afb-658e39333396)
-4. You can use the Green Button to Increase the user set temp and the red button to set the desired temperature by the user
-5. You can even change the value of the room temperature by clicking on the DHT22 sensor and dragging it to the value of your temperature you want to observe the changes in the Heating and Cooling system and how it responds to the Room temp and user-set temperature.
+5. You can use the Green Button to Increase the user set temp and the red button to set the desired temperature by the user
+6. You can even change the value of the room temperature by clicking on the DHT22 sensor and dragging it to the value of your temperature you want to observe the changes in the Heating and Cooling system and how it responds to the Room temp and user-set temperature.
    ![image](https://github.com/yugansh29/DigitalThermostat-Arduino/assets/123052599/4f8f0095-1a22-4161-b86f-f376add65c28)
-6. The RGB LED changes color based on the temperature comparison:
+7. The RGB LED changes color based on the temperature comparison:
 
     If roomTemp is higher than temp, the system indicates cooling by turning on the blue LED.
     If roomTemp is lower than temp, the system indicates heating by turning on the red LED.
@@ -51,6 +52,8 @@ When the User-set Temp is equal to the Room temp the system is indicated by a Gr
 
 The heating and cooling Elements (represented by the red LED and Blue Element) are activated or deactivated accordingly based on the temperature comparison.
    
+![image](https://github.com/yugansh29/DigitalThermostat-Arduino/assets/123052599/46e3284b-f97a-4295-9a1c-713ddae6cdbc)  ![image](https://github.com/yugansh29/DigitalThermostat-Arduino/assets/123052599/21513610-1c3f-45eb-98ed-798e36eb72df)
+
 
 
 
